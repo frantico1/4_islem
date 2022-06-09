@@ -1,0 +1,20 @@
+{
+  "name": "4_islem",
+  "version": "1.0.0",
+  "main": "islmler.js",
+  "scripts": {
+    "server": "nodemon islemler.js",
+    "start": "node islemler.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ali Kasım",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "description": ""
+}
